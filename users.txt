@@ -1,0 +1,3 @@
+username:password:comments:group
+amalik:PassWord:Developer:devs
+asm:PassWord:CEO:ammarmalik
